@@ -6,10 +6,5 @@ body{
 
 }
 .carousel-3d-slide{
-    background: #f0b7a1;
-    background: -moz-linear-gradient(top, #f0b7a1 0%, #8c3310 50%, #752201 51%, #bf6e4e 100%);
-    background: -webkit-linear-gradient(top, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%);
-    background: linear-gradient(to bottom, #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=0 );
+    background: -moz-linear-gradient(top, #f0b7a1 0%, #8c3310 59%, #752201 69%, #bf6e4e 83%);
 }
-
